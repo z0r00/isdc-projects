@@ -1,5 +1,5 @@
 # isdc-projects
-- Jupyter notebooks completed to help mentor students for the Udacity's ISDCND program. 
+- Jupyter notebooks completed to help mentor students for Udacity's ISDCND program. 
 
 ## Bayesian Thinking and Matrices
  - Joy Ride
